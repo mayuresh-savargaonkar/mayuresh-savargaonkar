@@ -19,7 +19,7 @@ As a Machine Learning (ML) engineer, I enjoy using my talents to develop and dep
 - 🚗 I’m currently working on Autonomous Vehicle Safety;
 - 👨🏽‍💻 I’m currently learning [Simulink](https://www.mathworks.com/help/mpc/ug/highway-lane-change.html);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See some of our labs research on [our website](https:irda.club);
+- 📝 See some of our research on [our website](https:irda.club);
 - 📫 How to reach me: mayuresh@umich.com;
 - 📝 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mayuresh-savargaonkar).
 
