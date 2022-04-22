@@ -11,7 +11,7 @@ I am a Ph.D. candidate at the University of Michigan-Dearborn. I love programmin
 As a Machine Learning (ML) engineer, I enjoy using my talents to develop and deploy machine learning models to modern problems - including autonomous vehicles 🚗. 
 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="238" />
 
 
 **Talking about Personal Stuffs:**
