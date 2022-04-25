@@ -39,7 +39,7 @@ As a Machine Learning (ML) engineer, I enjoy using my talents to develop and dep
 </p>
 
 ---
-**✍🏼 &nbsp;Top Skills:**
+**🛠 &nbsp;Top Skills:**
 - Customized Deep Learning
 - Hybrid Deep Learning
 - Statistical Modeling
@@ -57,10 +57,9 @@ As a Machine Learning (ML) engineer, I enjoy using my talents to develop and dep
 - Active Learning
 
 ---
-**🛠 &nbsp;Languages and Tools:**
-<p>
-  Our [COVID-19 💉 Tracker Project] (https://irda.club/covid19/)
-</p>
+**😷 &nbsp;COVID-19 Tracker:**
+
+COVID-19 Tracker 💉 [project](https://irda.club/covid19/);
 
 ---
 **📈 &nbsp;My GitHub Stats:**
