@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mayuresh1016)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mayursava/)
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayuresh1016.mayuresh1016)
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayuresh-savargaonkar.mayuresh-savargaonkar)
 I am a Ph.D. candidate at the University of Michigan-Dearborn. I love programming, making espresso and traveling.
 
 As a Machine Learning (ML) engineer, I enjoy using my talents to develop and deploy machine learning models to modern problems - including autonomous vehicles 🚗. 
@@ -64,7 +64,7 @@ COVID-19 Tracker 💉 [project](https://irda.club/covid19/);
 ---
 **📈 &nbsp;My GitHub Stats:**
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayuresh1016&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayuresh-savargaonkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuresh-savargaonkar&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
