@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mayuresh1016)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mayursava/)
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayuresh-savargaonkar.mayuresh-savargaonkar)
+Glad to see you here!
 I am a staff engineer at Idaho National Lab. I love programming, making espresso and traveling.
 
 As a Machine Learning (ML) engineer, I enjoy using my talents to develop and deploy machine learning models to modern problems focussed on the automotive industry 🚗. 
@@ -17,7 +17,7 @@ As a Machine Learning (ML) engineer, I enjoy using my talents to develop and dep
 ---
 **Talking about Personal Stuffs:**
 - 🚗 I’m currently working on electric vehicle charging infrastruture reliability;
-- 🔋 I’m currently also working on developing Deep learning models for advanced diagnostics of Li-ion batteries
+- 🔋 I’m currently also working on developing Deep learning models for advanced diagnostics of Li-ion batteries;
 - 👨🏽‍💻 I’m currently learning [Simulink](https://www.mathworks.com/help/mpc/ug/highway-lane-change.html);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See some of our research on [our website](https:irda.club);
